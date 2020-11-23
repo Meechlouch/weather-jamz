@@ -70,6 +70,11 @@ established:
   from the retrieved array.
 - Since the users's searched city(cities) will be generated from an input, JSON.parse and JSON.strigify are used to
     set and retrieve the searched city(cities) from the client side local storage.
+    
+## Contributors
+
+Credits Kelsey Lyngdal: https://github.com/klyngdal , James Gould: https://github.com/nobleburgundy Demetri Dillard:https://github.com/Meechlouch, Mariam Ali : https://github.com/alimariam12 Randy Whitley: https://github.com/randyWhitley, Kristina Hamilton: https://github.com/Kay0s
+GitHub
 
 ## Deployed Website and JQuery Code with AJAX calls
 
